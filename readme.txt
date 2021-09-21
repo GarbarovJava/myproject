@@ -1,3 +1,2 @@
-Dette er bare en enkel test på git github på et enkelt go-program.
+This is just a simple test on Git & GitHub on a simple goprogram.
 
-This should have been written in english!
